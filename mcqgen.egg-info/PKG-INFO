@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mcqgen
+Version: 0.1.0
+Summary: Generate Multiple Choice Questions, Choices and Correct Answer in JSON Format
+Author: Abhilash Mhaisne
+License-File: LICENSE
