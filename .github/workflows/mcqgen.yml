@@ -19,7 +19,7 @@ jobs:
         python-version: 3.x
 
     - name: Build distribution package
-      run: python setup.py sdist bdist_wheel
+      run: python setup.py sdist
 
     - name: Publish to PyPI (optional)
       uses: pypa/gh-action-pypi-publish@release/v1
