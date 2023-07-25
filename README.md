@@ -9,7 +9,7 @@ Generate MCQs with options and correct answers in JSON Format.
 
 You can install the package using pip:
 
-```Using pip
+```bash
 pip install mcqgen
 
 Make sure you have OpenAI key stored in environment variable `OPENAI_API_KEY`
