@@ -10,5 +10,6 @@ setup(
     author='Abhilash Mhaisne',
     description='Generate Multiple Choice Questions, Choices and Correct Answer in JSON Format',
     long_description=long_description,
-    install_requires=['openai']
+    install_requires=['openai'],
+    license='MIT License'
 )

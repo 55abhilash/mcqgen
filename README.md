@@ -11,5 +11,5 @@ You can install the package using pip:
 
 ```bash
 pip install mcqgen
-
+```
 Make sure you have OpenAI key stored in environment variable `OPENAI_API_KEY`
