@@ -9,7 +9,7 @@ setup(
     packages=find_packages(),
     author='Abhilash Mhaisne',
     description='Generate Multiple Choice Questions, Choices and Correct Answer in JSON Format',
-    long_description=lond_description,
+    long_description=long_description,
     install_requires=['openai'],
     license='MIT License'
 )
