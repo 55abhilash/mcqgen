@@ -9,8 +9,7 @@ setup(
     packages=find_packages(),
     author='Abhilash Mhaisne',
     description='Generate Multiple Choice Questions, Choices and Correct Answer in JSON Format',
-    long_description=long_description,
-    long_description_content_type='text',
+    long_description='Generate MCQs with options and correct answers in JSON Format. Uses GPT-3.5/4',
     install_requires=['openai'],
     license='MIT License'
 )
