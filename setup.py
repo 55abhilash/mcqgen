@@ -5,12 +5,14 @@ with open("README.md", "r") as fh:
 
 setup(
     name='mcqgen',
-    version='0.1.4',
+    version='1.0.0',
     packages=find_packages(),
     author='Abhilash Mhaisne',
+    author_email='abhilashmhaisne@gmail.com',
     description='Generate Multiple Choice Questions, Choices and Correct Answer in JSON Format',
     long_description=long_description,
     long_description_content_type='text/markdown',
     install_requires=['openai'],
-    license='MIT License'
+    license='MIT License',
+    url='https://github.com/55abhilash/mcqgen'
 )
